@@ -14,8 +14,12 @@
           <option name="url" value="https://iravkr@bitbucket.org/neilsinha88/cricketappravi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/s8vasaxe/fragmentedtabsmonika/src" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/CricketApp" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Betcalc" />
   </component>
 </application>
