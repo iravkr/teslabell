@@ -26,6 +26,10 @@
           <option name="url" value="https://iravkr@bitbucket.org/neilsinha88/integratedapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://iravkr@bitbucket.org/neilsinha88/account_management.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents" />
